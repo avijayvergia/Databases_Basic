@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InternalStorage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maain2">MaainActivity2</string>
+</resources>
